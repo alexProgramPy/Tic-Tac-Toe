@@ -15,4 +15,5 @@ A console-based Tic Tac Toe game built using Python.
 - Program structure
 
 -- How to Run -- 
+
 python tic_tac_toe.py
